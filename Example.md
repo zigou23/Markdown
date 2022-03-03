@@ -1,8 +1,3 @@
----
-title: "First Post"
-date: 2022-02-28T15:46:48+08:00
-draft: true
----
 
 # Hello World
 
