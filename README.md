@@ -16,6 +16,7 @@
 
 
 [📘文档](https://github.com/zigou23/Markdown#1-%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C) |
+[:book:示例](https://github.com/zigou23/Markdown/blob/main/Example.md) |
 [🤔报告问题](https://github.com/zigou23/Markdown/issues/new/)
 </div>
 
